@@ -1,0 +1,21 @@
+.main-logo{
+    height: 250px;
+    width: 500px;
+}
+.main{
+    text-align: center;
+    justify-content: center;
+}
+body{
+    color: white;
+    background: black;
+}
+.main-title{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 100px;
+    font-weight: 900;
+    justify-content: center;
+    margin: 0;
+    display: flex;
+    color: white;
+}
